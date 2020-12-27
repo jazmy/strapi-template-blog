@@ -6,5 +6,5 @@ A Strapi template to create Strapi projects pre-configured for blog apps.
 
 ```bash
 # Using Yarn
-yarn create strapi-app my-app-name --template https://github.com/ElegantStack/strapi-template-blog
+yarn create strapi-app my-app-name --template https://github.com/jazmy/strapi-template-blog
 ```
